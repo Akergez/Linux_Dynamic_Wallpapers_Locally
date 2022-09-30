@@ -1,8 +1,8 @@
 #!/bin/bash
 cd ~
 echo "Downloading needed files started"
-git clone https://github.com/saint-13/Linux_Dynamic_Wallpapers.git  
-cd Linux_Dynamic_Wallpapers
+git clone https://github.com/Akergez/Linux_Dynamic_Wallpapers_Locally
+cd Linux_Dynamic_Wallpapers_Locally
 echo "Files downloaded"
 
 if [[ -d ~/.local/share/backgrounds/Dynamic_Wallpapers ]]
@@ -19,7 +19,7 @@ echo "Deleting files used only for the installation process"
 python3 $(pwd)/install_variants.py
 python3 $(pwd)/set_path.py
 cd ~
-rm -r Linux_Dynamic_Wallpapers
+rm -r Linux_Dynamic_Wallpapers_Locally
 echo "    |"
 echo "    '---> Deleted unneeded files!"
 echo "Now, don't forget to set your preferred dynamic wallpaper from Settings!"
