@@ -11,5 +11,6 @@ mkdir -p ~/.local/share/gnome-background-properties/
 cp -r $(pwd)/Dynamic_Wallpapers ~/.local/share/backgrounds/Dynamic_Wallpapers
 cp $(pwd)/xml/* ~/.local/share/gnome-background-properties/
 python3 $(pwd)/install_variants.py
+python3 $(pwd)/set_path.py
 
 echo "Wallpapers has been installed. Enjoy setting them as your desktop background!"

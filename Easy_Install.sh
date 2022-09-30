@@ -17,6 +17,7 @@ cp ./xml/* ~/.local/share/gnome-background-properties/
 echo "Dynamic Wallpapers has been installed!"
 echo "Deleting files used only for the installation process"
 python3 $(pwd)/install_variants.py
+python3 $(pwd)/set_path.py
 cd ~
 rm -r Linux_Dynamic_Wallpapers
 echo "    |"
