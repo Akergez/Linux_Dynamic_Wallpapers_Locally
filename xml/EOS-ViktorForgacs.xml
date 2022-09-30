@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Viktor Forgacs</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs.xml</filename>
+    <filename>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
