@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Big Sur</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/cyberpunk-01.xml</filename>
+    <filename>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/cyberpunk-01.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
