@@ -11,46 +11,46 @@
 	</starttime>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-1.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-1.png</file>
 		<duration>7200.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>900.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-1.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-2.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-1.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-2.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-2.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-2.png</file>
 		<duration>28800.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>900.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-2.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-3.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-2.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-3.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-3.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-3.png</file>
 		<duration>7200.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>900.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-3.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-4.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-3.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-4.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-4.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-4.png</file>
 		<duration>39600.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>900.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-4.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-1.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-4.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/LofiDino/LofiDino-1.png</to>
 	</transition>
 </background>
