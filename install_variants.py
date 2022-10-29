@@ -20,6 +20,7 @@ def handle_directory(dir):
     new_dir = f'{os.path.expanduser("~")}/.local/share/backgrounds/Dynamic_Wallpapers/' + name
     # os.makedirs(new_dir)
     filess = os.listdir(new_dir)
+    filess.sort()
     for i in range(len(filess)):
         filess[i] = new_dir + '/' + filess[i]
         # copy(i_d, new_dir + '/' + i)

@@ -11,57 +11,57 @@
 	</starttime>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</file>
 		<duration>5400.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>5400.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs01.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs01.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs01.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs01.png</file>
 		<duration>10800.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>10800.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs01.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs02.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs01.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs02.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs02.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs02.png</file>
 		<duration>10800.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>10800.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs02.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs03.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs02.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs03.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs03.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs03.png</file>
 		<duration>10800.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>10800.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs03.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs03.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</to>
 	</transition>
 
 	<static>
-		<file>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</file>
+		<file>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</file>
 		<duration>5400.0</duration>
 	</static>
 
 	<transition type="overlay">
 		<duration>5400.0</duration>
-		<from>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</from>
-		<to>/var/home/akergez/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</to>
+		<from>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</from>
+		<to>@directory-key@/.local/share/backgrounds/Dynamic_Wallpapers/EOS-ViktorForgacs/EOS-ViktorForgacs04.png</to>
 	</transition>
 </background>
