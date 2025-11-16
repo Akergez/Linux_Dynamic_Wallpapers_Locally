@@ -17,6 +17,6 @@ if __name__ == '__main__':
             shutil.copy(pack+'/'+wallpapers[0], os.path.expanduser('~')+'/.local/share/wallpapers/'+packname+'/contents/images/5120x2880.png')
             shutil.copy(pack + '/' + wallpapers[1], os.path.expanduser('~') + '/.local/share/wallpapers/' + packname + '/contents/images_dark/5120x2880.png')
             with open(os.path.expanduser('~')+'/.local/share/wallpapers/'+packname+'/metadata.desktop', 'w') as metafile:
-                metafile.write(f'[Desktop Entry]\nName={packname}\n')
+                metafile.write('{"KPlugin":{"Name":"'+packname+'"}}')
         except:
             pass
